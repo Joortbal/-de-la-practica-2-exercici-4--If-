@@ -1,4 +1,4 @@
-int nivellCO2 = 50;
+int nivellCO2 = 12;
 
 void setup()              // run once, when the sketch starts
 {
